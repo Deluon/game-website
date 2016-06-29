@@ -1,0 +1,44 @@
+﻿#wrapper{
+	border: solid 5px #409995;
+}
+#systems{
+	margin-left: 190px;
+	margin-top: -315px;
+}
+#systems a:link{
+	color: #EBEBEB;
+	text-decoration: none;
+}
+#systems a:visited{
+	color: #5479D1;
+}
+#systems a:hover{
+	color: #EB8634;
+}
+#history{
+	width: 55%;
+	margin-left: 295px;
+	margin-top: -325px;
+	margin-bottom: 100px;
+}
+.history{
+	margin-bottom: 50px;
+}
+#game{
+	width: 55%;
+	margin-left: 295px;
+	margin-top: -325px;
+	margin-bottom: 50px;
+}
+#game_cover{
+	width: 300px;
+	height: 294px;
+	margin-left: 295px;
+	margin-bottom: 50px;
+}
+#game_cover2{
+	margin-left: 295px;
+	margin-bottom: 50px;
+	height: 430px;
+	width: 300px;
+}

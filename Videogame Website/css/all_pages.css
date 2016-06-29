@@ -1,0 +1,158 @@
+@font-face {
+  font-family: 'Classic Arcade';
+  src: local('Press Start 2P'), local('PressStart2P-Regular'), url(http://fonts.gstatic.com/s/pressstart2p/v4/8Lg6LX8-ntOHUQnvQ0E7o3dD2UuwsmbX3BOp4SL_VwM.woff) format('woff');
+}
+body{
+	font-family: "Classic Arcade", "Lucida Console", "Sans Serif";
+	color: #EBEBEB;
+	margin-top: 20px;
+	margin-left: 20px;
+	background-color: #2B6663;
+}
+p{
+	font-family: "Lucida Console", "Sans Serif";
+	font-size: 1.25em;
+	line-height: 20px;
+}
+#wrapper{
+	border: solid 5px #409995;
+	border-radius: 25px;
+	width: 1015px;
+	background-color: #000000;
+}
+h1{
+	font-size: 3em;
+	text-align: center;
+	margin-top: 10px;
+	padding-top: 10px;
+}
+h2{
+	color: #48B000;
+	font-size: 1.5em;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.date{
+	margin-top: 15px;
+	margin-bottom: 2px;
+	color: #48B000;
+	font-weight: bold;
+}
+#intro{
+	width: 75%;
+	margin-left: 200px;
+	margin-top: -375px;
+}
+#col1{
+	width: 35%;
+	margin-left: 200px;
+	margin-top: 20px;
+}
+#col2{
+	width: 35%;
+	margin-left: 600px;
+	margin-top: -150px;
+	margin-bottom: 30px;
+}
+img{
+	width: 100px;
+	height: 100px;
+	margin-left: 30px;
+	margin-top: -30px;
+	margin-bottom: -35px;
+}
+div{
+	font-size: 12px;
+}
+nav{
+	border: solid 4px #409995;
+	border-radius: 25px;
+	width: 130px;
+	margin-left: 10px;
+	margin-top: 60px;
+	margin-bottom: 40px;
+	text-align: center;
+}
+li{
+	margin-bottom: 30px;
+	margin-top: 30px;
+	position: relative;
+}	
+nav a:link{
+	color: #EBEBEB;
+	font-size: 1.25em;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-decoration: none;
+}
+nav a:visited{
+	color: #5479D1;
+}
+nav a:hover{
+	color: #EB8634;
+}
+nav ul .history{
+	display: none;
+	position: absolute;
+}
+nav li:hover .history{
+	display: block;
+	left: 130px;
+	top: -5px;
+	background-color: #000000;
+	border: solid 2px #409995;
+	border-radius: 10px;
+}
+nav li ul li{
+	padding: 5px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+nav ul.consoles{
+	display: none;
+	position: absolute;
+}
+nav ul .consoles .games{
+	display: none;
+	position: absolute;
+}
+nav li:hover .consoles{
+	display: block;
+	left: 130px;
+	top: -5px;
+	background-color: #000000;
+	border: solid 2px #409995;
+	border-radius: 10px;
+}
+nav li .consoles li:hover .games{
+	display: block;
+	left: 175px;
+	top: 0px;
+	background-color: #000000;
+	border: solid 2px #409995;
+	border-radius: 10px;
+}
+
+footer a:link{
+	color: #EBEBEB;
+	font-size: 10px;
+	text-decoration: none;
+	font-family: "Classic Arcade", "Lucida Console", "Sans Serif";
+}
+footer a:visited{
+	color: #5479D1;
+}
+footer a:hover{
+	color: #EB8634;
+}
+footer{
+	width: 1024px;
+	text-align: center;
+	margin-top: 10px;
+	font-family: Arial;
+}
+footer p{
+	margin-top: 10px;
+	font-family: "Classic Arcade", "Lucida Console", "Sans Serif";
+	font-size: 10px;
+}

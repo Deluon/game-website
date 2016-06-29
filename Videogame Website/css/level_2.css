@@ -1,0 +1,142 @@
+﻿#wrapper{
+	border: solid 5px #409995;
+}
+#systems{
+	margin-left: 190px;
+	margin-top: -315px;
+}
+#systems a:link{
+	color: #EBEBEB;
+	text-decoration: none;
+}
+#systems a:visited{
+	color: #5479D1;
+}
+#systems a:hover{
+	color: #EB8634;
+}
+#history, #references, #consoles, #faq, #contact, #sitemap{
+	width: 55%;
+	margin-left: 295px;
+	margin-top: -325px;
+	margin-bottom: 50px;
+}
+#history h2, #history h3{
+	margin-top: 20px;
+	margin-right: 20px;
+}
+#references p{
+	margin-top: 20px;
+}
+h3{
+	margin-left: 295px;
+	margin-top: -75px;
+	color: #48B000;
+}
+a:link{
+	color: #EBEBEB;
+	text-decoration: none;
+}
+a:visited{
+	color: #5479D1;
+}
+a:hover{
+	color: #EB8634;
+}
+#history p{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+figcaption{
+	margin-top: 40px;
+	margin-left: 30px;
+	text-align: center;
+}
+.gallery2{
+	width: 65%;
+	margin-left: 225px;
+	margin-bottom: 100px;
+}
+.gallery2 a{
+	display: inline-block;
+	width: 200px;
+	margin-bottom: 50px;
+}
+.gallery2 a img{
+	width: 200px;
+}
+.gallery2 p{
+	width: 300px;
+	float: right;
+	margin-right: 100px;
+}
+.gallery2 a:link{
+	color: #EBEBEB;
+}
+.gallery2 a:visited{
+	color: #5479D1;
+}
+.gallery2 a:hover{
+	color: #EB8634;
+}
+#consoles h3{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+}
+#faq h3, #sitemap h3, #references h3{
+	width: 100%;
+	margin-top: 30px;
+	margin-left: 0px;
+	margin-bottom: 10px;
+}
+#contact{
+	font-family: "Lucida Console", "Sans Serif";
+	font-size: 20px;
+	margin-bottom: 40px;
+}
+.field1{
+	
+}
+.field2{
+	margin-top: 40px;
+	margin-bottom: 10px;
+}
+#f_name, #l_name, #phone_number, #home_email, #comment_box{
+	margin-bottom: 20px;
+	position: relative;
+}
+#l_name{
+	left: 11px;
+	
+}
+#phone_number{
+	left: 34px;
+	width: 100px
+}
+#home_email{
+	left: 59px;
+	width: 300px;
+}
+#contact h3{
+	font-family: "Classic Arcade", "Lucida Console", "Sans Serif";
+	margin-bottom: 25px;
+}
+#sitemap a{
+	display: block;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+#sitemap h3{
+	font-size: 16px;
+}
+#sitemap h2{
+	font-size: 24px;
+}
+#gallery {
+	margin-top: -325px;
+}
+#gallery h2{
+	margin-bottom: 50px;
+	margin-left: 30px;
+}
